@@ -16,6 +16,8 @@ Reporter.log("hello",true);
 public void t3() {
 Reporter.log("ravali",true);
 	System.out.println("ravali is a beautiful girls");
+	System.out.println("ravali is a god girl");
+	
 }
 }
 
